@@ -2,3 +2,5 @@ fruits = ["apple","banana","kiwi","cherry","mango"]
 newlist = [x for x in fruits if "a" in x]
 print(newlist)
 ['apple','banana','mango']
+print("Hello")
+Hello
